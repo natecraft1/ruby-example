@@ -1,3 +1,3 @@
-puts "fuck u world"
+puts "world"
 
 puts "hi"
